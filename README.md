@@ -1,5 +1,5 @@
 ### Hi Everyone 👋
-I'm currently learning Web Developement at > Data Training Center
+I'm currently learning Web Developement at *Data Training Center*
 <!--
 **donal-R77/donal-R77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
