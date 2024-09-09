@@ -1,5 +1,5 @@
 ### Hi Everyone 👋
-*I'm currently engnineer probationer DevOps at Refonte Infini*
+*I'm currently engineer probationer DevOps at Refonte Infini*
 <!--
 **donal-R77/donal-R77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
